@@ -4,8 +4,8 @@
 
 %*******************首先读取数据*****************
 clc;clear;close all;
-[num1,TXT1,raw1]=xlsread('C:\Users\Administrator\Desktop\本科毕业设计数据.xlsx','sheet1');
-[num2,TXT2,raw2]=xlsread('C:\Users\Administrator\Desktop\血糖检测数据_20150930.xlsx','sheet1');
+[num1,TXT1,raw1]=xlsread('data\本科毕业设计数据.xlsx','sheet1');
+[num2,TXT2,raw2]=xlsread('data\血糖检测数据_20150930.xlsx','sheet1');
 num1(:,1)=[];
 num2(:,1)=[];
 zz=find(isnan(num2(:,1)));%去除nan无效数据行

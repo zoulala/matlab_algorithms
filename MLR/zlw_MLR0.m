@@ -1,7 +1,7 @@
 %****************多元线性回归工具使用*******************
 
 clc;clear;close all;
-[num,TXT,raw]=xlsread('C:\Users\Administrator\Desktop\本科毕业设计数据.xlsx','sheet1');
+[num,TXT,raw]=xlsread('data\本科毕业设计数据.xlsx','sheet1');
 num(:,1)=[];
 % num=zscore(num)
 
