@@ -6,3 +6,5 @@
 - PLS -偏最小二乘
 
 - LogisticR - 逻辑斯蒂回归
+
+- Ganzhiji - 感知机(perception)
