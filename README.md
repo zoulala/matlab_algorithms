@@ -8,3 +8,5 @@
 - LogisticR - 逻辑斯蒂回归
 
 - Ganzhiji - 感知机(perception)
+
+- PSO - 粒子群优化
