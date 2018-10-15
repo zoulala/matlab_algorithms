@@ -10,3 +10,5 @@
 - Ganzhiji - 感知机(perception)
 
 - PSO - 粒子群优化
+
+- KNN - K_近邻
