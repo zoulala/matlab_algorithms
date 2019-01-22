@@ -24,3 +24,5 @@
 - GDescent - 梯度下降
 
 - ANN - 人工神经网络
+
+- BOOSTING - 提升算法
